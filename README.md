@@ -1,5 +1,5 @@
-# Web++
-Web++: Let's Own A Piece of the Web
+# Duniix Web++: A Decentralized User Centric Web
+Duniix Web++: Let's Own A Piece of the Web
 
 Owning a piece of the Web sounds great, until you are shocked by your own reluctance to change the status quo, or the attitude of the people around you.
 
