@@ -30,6 +30,3 @@ Using Duniix metaprogramming approach, third party programmers may contribute th
 
 4. Modify: Modify is the core module of the Duniix architecture, where third party programmers may contribute to modify any part of Duniix system, including LSLVL.
 
-The following elements
-
-Learning
