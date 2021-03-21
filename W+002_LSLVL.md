@@ -24,6 +24,7 @@ Using the Duniix approach, we consider the following factors:
 
 Suppose we generalize the problem by downloading the web pages containing individual LSLVL clip to a local drive on Duniix server. Then the problem becomes one of searching HTML source code to extract the target video (identified by a URI).
 
+Using Duniix metaprogramming approach, third party programmers may contribute their own search algorithms to Duniix LSLVL server.
 
 The following elements
 
