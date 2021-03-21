@@ -26,6 +26,10 @@ Suppose we generalize the problem by downloading the web pages containing indivi
 
 Using Duniix metaprogramming approach, third party programmers may contribute their own search algorithms to Duniix LSLVL server.
 
+3. View: Depending on the search algorithms, the View functionalities for LSLVL may be customized accordingly.
+
+4. Modify: Modify is the core module of the Duniix architecture, where third party programmers may contribute to modify any part of Duniix system, including LSLVL.
+
 The following elements
 
 Learning
