@@ -20,6 +20,11 @@ Using the Duniix approach, we consider the following factors:
 
 1. Create: A new video clip may be created using any existing social media app, including TikTok, YouTube, Facebook, Tweeter, Instagram, etc, or Duniix own LSLVL module.
 
+2. Search: Searching LSLVL videos becomes a "interesting" (complicated) problem, as they consist of videos published via various different social media apps.
+
+Suppose we generalize the problem by downloading the web pages containing individual LSLVL clip to a local drive on Duniix server. Then the problem becomes one of searching HTML source code to extract the target video (identified by a URI).
+
+
 The following elements
 
 Learning
