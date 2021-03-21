@@ -12,6 +12,14 @@ which is essentially a combination of of the following elements:
 
 All these are possible because of the Decentralized User Authentication Scheme employed in Duniix.
 
+CSVM methods (Create Search View Modify) exist in conventional software development model. Typically, nowadays, a popular framework, such as React is chosen. Subsequently, development consists of modifying existing sample code or adding new code.
+
+LSLVL can be implemented as a clone of YouTube using the conventional software development model.
+
+Using the Duniix approach, we consider the following factors:
+
+1. Create: A new video clip may be created using any existing social media app, including TikTok, YouTube, Facebook, Tweeter, Instagram, etc, or Duniix own LSLVL module.
+
 The following elements
 
 Learning
