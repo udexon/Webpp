@@ -33,6 +33,14 @@ By comparing social media apps to web pages based on the CSVM (Create, Search, V
 3. View: Viewing web pages is just the default function of a web browser.
 4. Modify: Anyone is free to modify existing web page templates or framework code, as they are usually open source.
 
+In the next section, we shall look into the details
+of implementing LSLVL Learn a Second Language by Video Blogging
+using Duniix to illustrate the CSVM framework
+and comparisons with conventional social media,
+ search engines and web pages.
+
+https://github.com/udexon/LSLVL
+
 
 
 
