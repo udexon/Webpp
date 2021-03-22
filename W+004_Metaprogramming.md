@@ -73,17 +73,22 @@ def f_dom():
   
 ```
 
-Similarly `f_dom()` can be invoked via the following script:
+These functions can be invoked using the following scripts:
+
+1. Calling `f_dom()` or `dom:`
 
 ```py
 >>> f('jeff_w 21 li dom:')
 ```
 
-Or equivalently:
+2. `f_dom()` itself is equivalent to:
 
 ```py
 f('li j_geid: 21 j_i: j_it: j_eq: doremon j_sq: jstr: es:')
 ```
+
+
+Similarly `f_dom()` can be invoked via the following script:
 
 ```py
 
