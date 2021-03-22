@@ -20,7 +20,7 @@ def f_dom1():
     driver.execute_script("document.getElementsByTagName('"+ S.pop() +"')["+ str(S.pop()) +"].innerText='"+ S.pop() +"'")
 ```
 
-It simply breaks the JavaScript command string into several parts, and inserts the required parammeters, which are in turn read from a stack `S`.
+It simply breaks the JavaScript command string into several parts, and inserts the required parameters, which are in turn read from a stack `S`.
 
 The stack machine is perhaps THE universal data structure and architecture for metaprogramming that can be implemented across all known programming languages.
 
@@ -88,6 +88,8 @@ f('li j_geid: 21 j_i: j_it: j_eq: doremon j_sq: jstr: es:')
 ```
 
 
+<!--
+
 Similarly `f_dom()` can be invoked via the following script:
 
 ```py
@@ -107,3 +109,5 @@ def f_dom():
 def f_dom1():
     driver.execute_script("document.getElementsByTagName('"+ S.pop() +"')["+ str(S.pop()) +"].innerText='"+ S.pop() +"'")
 ```
+
+-->
