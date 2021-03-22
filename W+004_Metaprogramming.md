@@ -87,6 +87,13 @@ These functions can be invoked using the following scripts:
 f('li j_geid: 21 j_i: j_it: j_eq: doremon j_sq: jstr: es:')
 ```
 
+# Conclusions
+
+1. We may loosely define "metaprogramming" as "using code in one programming language to manipulate the code in another programming language", although a rigourous definition will required deeper understanding of various issues involved, which takes time and experience to acquire.
+
+2. We have demonstrated the use of Phoscript to manipulate code in Python and JavaScript. The requirement to understand all 3 programming languages may be an obstacles to many initially. However, as we shall demonstrate in subsequent tutorials, Phoscript can be used to create a "sandwiched metaprogramming training model" where learners of different expertise may choose to learn the modules at different levels, and proceed to start using Phoscript quickly without understanding the fundamentals, and learn the fundamentals while writing practical code. Phoscript sandwiched metaprogramming model is unique and is applicable to all known programming languages and programming frameworks.
+
+
 
 <!--
 
