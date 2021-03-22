@@ -79,6 +79,11 @@ Similarly `f_dom()` can be invoked via the following script:
 >>> f('jeff_w 21 li dom:')
 ```
 
+Or equivalently:
+
+```py
+f('li j_geid: 21 j_i: j_it: j_eq: doremon j_sq: jstr: es:')
+```
 
 ```py
 
