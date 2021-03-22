@@ -34,7 +34,50 @@ To execute `f_dom1()`, the following script is entered in the Python interpreter
 
 The parameters `jeff_w 21 li` are pushed on to the stack, and popped last in first out as the parameters in `f_dom1()`.
 
-`f()` is the Python function that acts as the entry point into Phoscript. Any word that ends with a colon `:` character is mapped to a Python Phoscript function with prefix `f_*()`, i.e. `dom1:` is mapped `f
+`f()` is the Python function that acts as the entry point into Phoscript. Any word that ends with a colon `:` character is mapped to a Python Phoscript function with prefix `f_*()`, i.e. `dom1:` is mapped to `f_dom1()`.
+
+
+2. From item (1) above, we have demonstrated several issues with `f_dom1()`:
+- `f_dom1()` is simple but not flexible enough.
+- What if we want to access the DOM object with a different number of parameters?
+
+To solve the various problems in (1), we added the following functions:
+
+```py
+def f_es():
+    driver.execute_script( S.pop() )
+    
+def f_j_geid():
+    S.append( "document.getElementsByTagName('"+ S.pop() +"')" )    
+    
+def f_j_i():
+    i = str(S.pop())
+    print(i, type(i))
+    S.append( S.pop()+"["+i+"]" )
+    
+def f_j_it():
+    S.append( S.pop()+".innerText")
+    
+def f_j_eq():
+    S.append( S.pop()+"=" )
+    
+def f_j_sq(): # single quote
+    S.append( "'"+S.pop()+"'")
+    
+def f_jstr(): # join two strings
+    sa=S.pop()
+    S.append( S.pop() + sa )
+    
+def f_dom():
+   f( S.pop()+' j_geid: '+ str(S.pop()) +' j_i: j_it: j_eq: '+ S.pop() +' j_sq: jstr: es:')
+  
+```
+
+Similarly `f_dom()` can be invoked via the following script:
+
+```py
+>>> f('jeff_w 21 li dom:')
+```
 
 
 ```py
