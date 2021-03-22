@@ -12,6 +12,31 @@ f('some_name 21 li dom:')
 
 This is perhaps the most practical and simple explanation of "metaprogramming", a niche topic in computer programming shrouded in secrecy for decades, due to lack of effort and motivation to popularize it.
 
+
+1. We shall first look at `f_dom1()` as shown below:
+
+```py
+def f_dom1():
+    driver.execute_script("document.getElementsByTagName('"+ S.pop() +"')["+ str(S.pop()) +"].innerText='"+ S.pop() +"'")
+```
+
+It simply breaks the JavaScript command string into several parts, and inserts the required parammeters, which are in turn read from a stack `S`.
+
+The stack machine is perhaps THE universal data structure and architecture for metaprogramming that can be implemented across all known programming languages.
+
+The programming language we employ, Phoscript, is derived from the Forth programming language, which in turn is based on a stack machine architecture.
+
+To execute `f_dom1()`, the following script is entered in the Python interpreter:
+
+```py
+>>> f('jeff_w 21 li dom1:')
+```
+
+The parameters `jeff_w 21 li` are pushed on to the stack, and popped last in first out as the parameters in `f_dom1()`.
+
+`f()` is the Python function that acts as the entry point into Phoscript. Any word that ends with a colon `:` character is mapped to a Python Phoscript function with prefix `f_*()`, i.e. `dom1:` is mapped `f
+
+
 ```py
 
 driver.execute_script("document.getElementsByTagName('li')[21].innerText='mifasolasido'")
