@@ -1,3 +1,15 @@
+In [DU004 (Modify HTML DOM with Python Selenium)](https://github.com/udexon/DUNIIX/blob/main/DU004_Modify_HTML.md), we demonstrate how to "Modify HTML DOM with Python Selenium", as the title suggests.
+
+
+```py
+driver.execute_script("document.getElementsByTagName('li')[21].innerText='mifasolasido'")
+```
+
+```py
+f('some_name 21 li dom:')
+```
+
+
 ```py
 
 driver.execute_script("document.getElementsByTagName('li')[21].innerText='mifasolasido'")
