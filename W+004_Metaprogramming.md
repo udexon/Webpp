@@ -1,4 +1,12 @@
 ```py
+
+driver.execute_script("document.getElementsByTagName('li')[21].innerText='mifasolasido'")
+
+f('some_name 21 li dom:')
+
+
+
+
 f('li j_geid: 21 j_i: j_it: j_eq: doremon j_sq: jstr: es:')
 
 def f_dom():
