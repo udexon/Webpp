@@ -6,11 +6,17 @@ there are in W+006 (Making a video thumbnail HTML page)?
 The answer lies in what happen AFTER the video thumbnail
 page is created.
 
-Most importantly, how would anyone find out about it (Search)?
+1. Most importantly, how would anyone find out about it (Search)?
 
-Next, how would anyone respond (follow up, comment) on it?
+2. Next, how would anyone respond (follow up, comment, like, down vote, etc.) on it? (Create)
 
-Also, is it possible to modify the existing pages
+3. Also, is it possible to modify the existing pages
 other than using conventional methods? (Modify) 
 
-Respond (Create)
+Consider this statement:
+
+- Human programmers are metaprograms as we 
+create and modify programs.
+
+- How may we describe and represent the process
+by which human programmers write programs?
