@@ -8,6 +8,12 @@ page is created.
 
 1. Most importantly, how would anyone find out about it (Search)?
 
+- a. Search Engine, 
+- b. Social Media, 
+- c. Recommendation with Rewards (RWR).
+
+Send RWR in email or private messages. Like word of mouth.
+
 2. Next, how would anyone respond (follow up, comment, like, down vote, etc.) on it? (Create)
 
 3. Also, is it possible to modify the existing pages
