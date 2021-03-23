@@ -19,3 +19,13 @@ Save the page to local drive:
 
 <img src="https://github.com/udexon/Webpp/blob/main/img/Thumbnail-template.png" width=600>
 
+
+3. Edit the image url (line 19) in `Page-4.html`.
+
+<img src="https://github.com/udexon/Webpp/blob/main/img/img_url.png" width=600>
+
+
+4. Final output showing `o1.gif` at the top left thumbnail:
+
+<img src="https://github.com/udexon/Webpp/blob/main/img/mod_html.png" width=600>
+
