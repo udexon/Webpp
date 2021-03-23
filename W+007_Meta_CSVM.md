@@ -19,10 +19,12 @@ Send RWR in email or private messages. Like word of mouth.
 3. Also, is it possible to modify the existing pages
 other than using conventional methods? (Modify) 
 
-Consider this statement:
+4. Consider this statement:
 
 - Human programmers are metaprograms as we 
 create and modify programs.
 
 - How may we describe and represent the process
 by which human programmers write programs?
+
+5. Before we further explore the issues above, we would like to re-emphasize that, the CSVM (Create Search View Modify) model is a useful and comprehensive framework to characterize and analyse various aspects and issues concerning web services and technologies, as we shall subsequently demonstrate.
