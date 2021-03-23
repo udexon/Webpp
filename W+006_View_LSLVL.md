@@ -29,3 +29,7 @@ Save the page to local drive:
 
 <img src="https://github.com/udexon/Webpp/blob/main/img/mod_html.png" width=600>
 
+
+5. To convert video (mp4) to gif file:
+
+- https://engineering.giphy.com/how-to-make-gifs-with-ffmpeg/
