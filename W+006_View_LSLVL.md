@@ -1,5 +1,11 @@
 # LSLVL View Module
 
+- _For the impatient and experienced programmers,
+please read [W+007 (A Metaprogramming Perspective on 
+Create Search View Modify (CSVM) Model)](https://github.com/udexon/Webpp/blob/main/W+007_Meta_CSVM.md)
+ for the
+motivations of doing the following._
+
 1. Let us illustrate the Duniix software development model with the simplest of CSVM (Create Search View Modify) &mdash; View.
 
 In W+005, we demonstrated [how to download a video from a Douyin link](https://github.com/udexon/Webpp/blob/main/W+005_Video.md). 
