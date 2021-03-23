@@ -12,12 +12,14 @@ page is created.
 - b. Social Media, 
 - c. Recommendation with Rewards (RWR).
 
-Send RWR in email or private messages. Like word of mouth.
+Send RWR in email or private messages. Like word of mouth. Compare to advertising mechanism in search engines. Duniix allow anyone to contribute code to improve (Modify) any part of CSVM, including Search.
 
 2. Next, how would anyone respond (follow up, comment, like, down vote, etc.) on it? (Create)
 
 3. Also, is it possible to modify the existing pages
 other than using conventional methods? (Modify) 
+
+- M = Modify = Metaprogramming ??
 
 4. Consider this statement:
 
