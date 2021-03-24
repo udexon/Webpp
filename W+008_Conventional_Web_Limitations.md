@@ -42,4 +42,4 @@ LSLVL Learn a Second Language by Video Blogging is perhaps the most pervasive th
 
 DRRT is a novel invention that can monetize "recommendation" by creating cryptographic tokens to track the "path" of such recommendations (from a friend to friends of a friend and so on ...)
 
-Combining LSLVL and DRRT, we literally have the 
+Combining LSLVL and DRRT, we literally have the most powerful advertising network, which is also accessible fairly to everyone on Earth, including vocally impaired people who may use sign language in LSLVL videos.
