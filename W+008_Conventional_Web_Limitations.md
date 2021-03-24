@@ -27,3 +27,11 @@ to promote and interact with customers.
 By using DRRT, vendors (individual, small, medium, large businesses) may offer discount or rewards to friends, who can promote the business (goods or services or training) to friends of friends, and track the recommendations using the cryptographic tokens in DRRT.
 
 The most critical features in DRRT are that it is decentralized and user centric, without a centralized authority, and can be managed co-operatively by multiple parties (Vendor, Customer A, who recommends Customer B, who in turn recommends customer C, and so on ...)
+
+
+## 4. What can DRRT contribute to a language learning service / app such as LSLVL?
+
+Users of LSLVL may use DRRT to recommend sponsor's business to friends while browsing LSLVL.
+
+e.g. A shampoo vendor may sponsor one of the language lesson in LSLVL. Viewers may then recommend this shampoo to friends.
+
