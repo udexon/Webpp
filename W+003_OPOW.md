@@ -42,3 +42,8 @@ services is the utilization of User's mobile devices
 as Duniix nodes, which are increasingly powerful,
 as substitute for server facilities in conventional systems.
 
+As such, individual user may assume the roles of User and Hardware Owner
+at the same time, resulting in a change in Shareholder role (see PUSH models above).
+
+
+
