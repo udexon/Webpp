@@ -13,3 +13,11 @@ All these are possible because of the Decentralized User Authentication Scheme e
 1. Phoscript is a metaprogramming language derive from the Forth programming language, which is practically as easy to learn as spreadsheet formulas, yet powerful enough to interface to any programming language and framework:
 
 - https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
+
+
+In the conventional software development model, 
+the major shareholder of the company employing the
+programmers has the absolute power on decision making.
+
+In Duniix software development model, we highlight
+PUSH, for Programmer 
