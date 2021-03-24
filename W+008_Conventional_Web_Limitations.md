@@ -25,3 +25,5 @@ to promote and interact with customers.
 3. Everyone is subject to competition. However, cost and fame are two mutually inverse properties, that have not been fairly utilized by conventional web and apps, where [Duniix Recommendation Reward Token (DRRT)](https://github.com/udexon/DUNIIX/blob/main/DU001_Phoshell.md) provides a unique groundbreaking solution!
 
 By using DRRT, vendors (individual, small, medium, large businesses) may offer discount or rewards to friends, who can promote the business (goods or services or training) to friends of friends, and track the recommendations using the cryptographic tokens in DRRT.
+
+The most critical features in DRRT are that it is decentralized and user centric, without a centralized authority, and can be managed co-operatively by multiple parties (Vendor, Customer A, who recommends Customer B, who in turn recommends customer C, and so on ...)
