@@ -19,5 +19,12 @@ In the conventional software development model,
 the major shareholder of the company employing the
 programmers has the absolute power on decision making.
 
-In Duniix software development model, we highlight
-PUSH, for Programmer 
+In Duniix software development model, we highlight individual's role as
+PUSH:
+
+- P: Programmer 
+- U: User
+- S: Shareholder
+- H: Owner of Hardware Devices, that make up Duniix network
+
+The conventional company structure dictates a centralized system, where funds are spent to acquire and maintain hardware at centralized locations, to serve users in segmented geographical areas, even if the users are spread out globally.
