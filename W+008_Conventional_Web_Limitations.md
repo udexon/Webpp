@@ -35,3 +35,11 @@ Users of LSLVL may use DRRT to recommend sponsor's business to friends while bro
 
 e.g. A shampoo vendor may sponsor one of the language lesson in LSLVL. Viewers may then recommend this shampoo to friends.
 
+
+## 5. What are the significance of (4) using DRRT in LSLVL?
+
+LSLVL Learn a Second Language by Video Blogging is perhaps the most pervasive theme specific social media activity since TikTok &mdash; anyone can be involved, by making a short video, teaching and learning a new word in a second language; it can include anyone speaking any language, at any location on Earth.
+
+DRRT is a novel invention that can monetize "recommendation" by creating cryptographic tokens to track the "path" of such recommendations (from a friend to friends of a friend and so on ...)
+
+Combining LSLVL and DRRT, we literally have the 
