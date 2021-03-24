@@ -7,3 +7,17 @@ In this article, we shall describe several examples of conventional websites or 
 <!-- Make a Glossary markdown page. Paste at the end of each page. Readers can click and find out. -->
 
 W+008_Conventional_Web_Limitations.md
+
+1. As of 2021, established retail businesses such as Princess Polly
+would have the following:
+
+- a. Own website, with E commerce facilities,
+equipped with payment systems provided by a third party.
+- b. Social media accounts, to promote and interact with customers.
+
+2. Smaller retail businesses may not have (1a),
+but a "store front" in an E commerce website such as
+Amazon or Alibaba. They will also use social media
+to promote and interact with customers.
+
+
