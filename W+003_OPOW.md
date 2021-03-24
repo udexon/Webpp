@@ -29,7 +29,9 @@ PUSH:
 
 The conventional company structure dictates a centralized system, where funds are spent to acquire and maintain hardware at centralized locations, to serve users in segmented geographical areas, even if the users are spread out globally.
 
-Thanks to DUCT (Decentralized User Contract Token), the basis of DRRT (Duniix Recommedation Reward Token), Users now have a mechanism to manage the following resources, down to the smallest units, without a centralized authority, such as a company:
+Thanks to DUCT (Decentralized User Contract Token), the basis of DRRT (Duniix Recommedation Reward Token), Users now have a mechanism to manage the following resources, down to the smallest units, 
+with the freedom to join or leave the network at any time, 
+without a centralized authority, such as a company:
 
 - a. Program code, measured by Phoscript Words (function names);
 - b. Hardware capabilities in terms CPU power, network capacity, storage and memory;
