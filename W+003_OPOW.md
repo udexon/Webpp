@@ -10,12 +10,8 @@ All these are possible because of the Decentralized User Authentication Scheme e
 
 ## 6. How can we ensure LSLVL will be developed in such a way that is not monopolized like conventional web and apps such as MAGA+F (Microsoft Amazon Google Apple Facebook)?
 
-1. Phoscript is a metaprogramming language derive from the Forth programming language, which is practically as easy to learn as spreadsheet formulas, yet powerful enough to interface to any programming language and framework:
 
-- https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
-
-
-In the conventional software development model, 
+1. In the conventional software development model, 
 the major shareholder of the company employing the
 programmers has the absolute power on decision making.
 
@@ -46,4 +42,15 @@ As such, individual user may assume the roles of User and Hardware Owner
 at the same time, resulting in a change in Shareholder role (see PUSH models above).
 
 
+2. Phoscript is a metaprogramming language derive from the Forth programming language, which is practically as easy to learn as spreadsheet formulas, yet powerful enough to interface to any programming language and framework, as illustrated in the following articles:
+
+- https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
+
+- https://github.com/udexon/Webpp/blob/main/W%2B004_Metaprogramming.md
+
+- https://github.com/udexon/Webpp/blob/main/W%2B006_View_LSLVL.md
+
+As such, the roles between User and Programmer begin to blur, when Users begin to contribute coding to Duniix projects, which also contribute to a change in the role of Shareholder (PUSH model).
+
+3. In summary, by engaging in Programming (P) or contributing own hardware (H), User (U) may claim a Share (S) from Duniix business (PUSH model).
 
