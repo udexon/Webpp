@@ -47,6 +47,8 @@ Combining LSLVL and DRRT, we literally have the most powerful advertising networ
 
 ## 6. How can we ensure LSLVL will be developed in such a way that is not monopolized like conventional web and apps such as MAGA+F (Microsoft Amazon Google Apple Facebook)?
 
+- https://github.com/udexon/Webpp/blob/main/W+003_OPOW.md
+
 1. Phoscript is a metaprogramming language derive from the Forth programming language, which is practically as easy to learn as spreadsheet formulas, yet powerful enough to interface to any programming language and framework:
 
 - https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
