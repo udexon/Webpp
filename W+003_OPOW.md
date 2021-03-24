@@ -33,3 +33,10 @@ Thanks to DUCT (Decentralized User Contract Token), the basis of DRRT (Duniix Re
 
 - a. Program code, measured by Phoscript Words (function names);
 - b. Hardware capabilities in terms CPU power, network capacity, storage and memory;
+
+One of the most important enabling factors
+in Duniix network in contrast to conventional
+services is the utilization of User's mobile devices
+as Duniix nodes, which are increasingly powerful,
+as substitute for server facilities in conventional systems.
+
