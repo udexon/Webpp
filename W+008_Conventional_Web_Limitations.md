@@ -22,5 +22,5 @@ Amazon or Alibaba. They will also use social media
 to promote and interact with customers.
 
 
-3. Everyone is subject to competition. However, cost and fame are two mutually inverse properties, that have not been fairly utilized by conventional web and apps, where Duniix Recommendation Reward Token (DRRT) provides a unique groundbreaking solution!
+3. Everyone is subject to competition. However, cost and fame are two mutually inverse properties, that have not been fairly utilized by conventional web and apps, where [Duniix Recommendation Reward Token (DRRT)](https://github.com/udexon/DUNIIX/blob/main/DU001_Phoshell.md) provides a unique groundbreaking solution!
 
