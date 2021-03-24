@@ -15,9 +15,12 @@ would have the following:
 equipped with payment systems provided by a third party.
 - b. Social media accounts, to promote and interact with customers.
 
+
 2. Smaller retail businesses may not have (1a),
 but a "store front" in an E commerce website such as
 Amazon or Alibaba. They will also use social media
 to promote and interact with customers.
 
+
+3. Everyone is subject to competition. However, cost and fame are two mutually inverse properties, that have not been fairly utilized by conventional web and apps, where Duniix Recommendation Reward Token (DRRT) provides a unique groundbreaking solution!
 
