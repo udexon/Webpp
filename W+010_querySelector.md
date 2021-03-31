@@ -41,6 +41,8 @@ Chrome driver (browser).
 source and then the page source is saved as a local file.
 - c. The cloned local copy of YouTube page
 is opened using Selenium Chrome driver again.
-- d. 
+- d. Right click on the element that you wish to modify, move the mouse pointer to the last item on the menu "Inspect". The corresponding DOM HTML will be displayed in the Developer Tool window, as shown in figure 3.
 
 
+- Figure 3
+<img src="https://github.com/udexon/Webpp/blob/main/img/DOM_id_meta.png" width=600>
