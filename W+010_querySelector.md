@@ -1,7 +1,8 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web (Part I)
 
 1. Consider these questions:
-- a. How would you transfer data in a spreadsheet (Figure 1) to a web page (Figure 2) easily,
+- a. How would you transfer data in a spreadsheet (Figure 1) 
+to a web page (Figure 2, top left thumbnail) easily,
 using templates cloned from any website of
 your choice (including websites such as Google,
  YouTube, Facebook etc.)? 
