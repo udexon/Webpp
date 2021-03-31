@@ -29,7 +29,7 @@ Due to unknown historical circumstances, the web ecosystems are constructed with
 
 - a. front end: JavaScript, HTML
 - b. back end: PHP, Node.js, Python Django, etc.
-- c. "automation" front end: Selenium Python, Java, Casperjs, Phantonmjs, etc.
+- c. "automation" front end: Selenium Python, Java, Casperjs, Phantomjs, etc.
 
 The unique stack machine architecture and reverse polish notation syntax of Phoscript allow it to be implemented as a metaprogramming shell easily within any of the programming language and framework mentioned above, as we shall illustrate.
 
