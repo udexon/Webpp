@@ -1,5 +1,7 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web
 
+1. Consider this question:
+
 - How would you use YouTube as template and change an entry on the web page with your own JSON data?
 
 Each part of this question sounds like a junior developer's trick.
@@ -18,3 +20,16 @@ Due to unknown historical circumstances, the web ecosystems are constructed with
 - c. "automation" front end: Selenium Python, Java, Casperjs, Phantonmjs, etc.
 
 The unique stack machine architecture and reverse polish notation syntax of Phoscript allow it to be implemented as a metaprogramming shell easily within any of the programming language and framework mentioned above, as we shall illustrate.
+
+3. Question (1) above will be solved with the 
+following use case / modules:
+
+- a. A YouTube page is opened using Python Selenium 
+Chrome driver (browser).
+- b. `<script>` elements are removed from the page
+source and then the page source is saved as a local file.
+- c. The cloned local copy of YouTube page
+is opened using Selenium Chrome driver again.
+- 
+
+
