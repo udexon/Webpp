@@ -11,7 +11,7 @@ your choice (including websites such as Google,
 <img src="https://github.com/udexon/Webpp/blob/main/img/Spreadsheet_JSON.png" width=400>
 
 - Figure 2
-<img src="https://github.com/udexon/Webpp/blob/main/img/YouTube_DOM.png" width=400>
+<img src="https://github.com/udexon/Webpp/blob/main/img/YouTube_DOM.png" width=600>
 
 <!-- readers want a simple to understand example!! -->
 
