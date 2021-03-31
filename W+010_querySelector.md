@@ -1,11 +1,17 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web
 
 1. Consider these questions:
-- a. How would you transfer data in a spreadsheet to a web page easily,
+- a. How would you transfer data in a spreadsheet (Figure 1) to a web page (Figure 2) easily,
 using templates cloned from any website of
 your choice (including websites such as Google,
- YouTube, Facebook etc.)?
+ YouTube, Facebook etc.)? 
 - b. How would you use YouTube as template and change an entry on the web page with your own JSON data?
+
+- Figure 1
+<img src="https://github.com/udexon/Webpp/blob/main/img/Spreadsheet_JSON.png" width=400>
+
+- Figure 2
+<img src="https://github.com/udexon/Webpp/blob/main/img/YouTube_DOM.png" width=400>
 
 <!-- readers want a simple to understand example!! -->
 
