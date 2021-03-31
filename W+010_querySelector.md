@@ -74,3 +74,11 @@ querySelector('#metadata-line')
 querySelector('#byline-container')
 ```
   - Finally, the selected element `.innerText` property is modified accordingly.
+
+4. Item (3) above shows the required JavaScript code to modify the element concerned, so that we may display the data as we wish, using the template from YouTube.
+
+As readers may notice, the data entries `Learn English Online`, `expired 30 Apr 2021`, `20% discount` need to be retrieved from somewhere, as the browser front end is an isolated environment, so designed to ensure network security.
+
+These data may be retried from the back end (e.g. PHP), or injected via Python Selenium Chrome driver.
+
+As you can see, now the simplest problem of data entry involves not only JavaScript, but PHP and Python as well!! The resulting code will be to complicated to be managed by human programmers. Here is where Phoscript metaprogramming script comes to rescue!!
