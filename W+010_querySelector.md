@@ -1,7 +1,10 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web
 
 1. Consider these questions:
-- a. How would you transfer data in a spreadsheet to a web page easily?
+- a. How would you transfer data in a spreadsheet to a web page easily,
+using templates cloned from any website of
+your choice (including websites such as Google,
+ YouTube, Facebook etc.)?
 - b. How would you use YouTube as template and change an entry on the web page with your own JSON data?
 
 <!-- readers want a simple to understand example!! -->
@@ -32,6 +35,6 @@ Chrome driver (browser).
 source and then the page source is saved as a local file.
 - c. The cloned local copy of YouTube page
 is opened using Selenium Chrome driver again.
-- 
+- d. 
 
 
