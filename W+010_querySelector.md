@@ -66,7 +66,7 @@ document.querySelectorAll('#meta')[0].querySelector('#metadata-line').innerText=
 document.querySelectorAll('#meta')[0].querySelector('#byline-container').innerText='20% discount'
 ```
 
-- f. `#meta` in `querySelectorAll()` select all elements with `id="meta"`.
+- f. `#meta` in `querySelectorAll()` selects all elements with `id="meta"`.
   -  `[0]` in `document.querySelectorAll('#meta')[0]` returns the first selected element, i.e. the top left thumbnail as shown in figure 3.
   -  `document.querySelectorAll('#meta')[0]` can be cascaded to select child element:
 ```
