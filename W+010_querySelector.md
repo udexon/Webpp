@@ -46,3 +46,14 @@ is opened using Selenium Chrome driver again.
 
 - Figure 3
 <img src="https://github.com/udexon/Webpp/blob/main/img/DOM_id_meta.png" width=600>
+
+- e. Move the mouse pointer to the following element in the Developer Tool window:
+- `<div class="style-scope ytd-rich-grid-media" id="meta">`
+Right click on it - Copy - Copy outerHTML, as shown in figure 4.
+
+- Figure 4
+<img src="https://github.com/udexon/Webpp/blob/main/img/DOM_outerHTML.png" width=600>
+
+- f. Paste the outerHTML code into a text editor, as shown in figure 5.
+- Figure 5
+<img src="https://github.com/udexon/Webpp/blob/main/img/DOM_meta_html.png" width=600>
