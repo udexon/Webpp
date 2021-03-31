@@ -81,4 +81,4 @@ As readers may notice, the data entries `Learn English Online`, `expired 30 Apr 
 
 These data may be retried from the back end (e.g. PHP), or injected via Python Selenium Chrome driver.
 
-As you can see, now the simplest problem of data entry involves not only JavaScript, but PHP and Python as well!! The resulting code will be to complicated to be managed by human programmers. Here is where Phoscript metaprogramming script comes to rescue!!
+As you can see, now the simplest problem of data entry involves not only JavaScript, but PHP and Python as well!! The resulting code will be too complicated to be managed by mortal programmers. Here is where Phoscript metaprogramming script comes to rescue!!
