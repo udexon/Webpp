@@ -1,8 +1,10 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web
 
-1. Consider this question:
+1. Consider these questions:
+- a. How would you transfer data in a spreadsheet to a web page easily?
+- b. How would you use YouTube as template and change an entry on the web page with your own JSON data?
 
-- How would you use YouTube as template and change an entry on the web page with your own JSON data?
+<!-- readers want a simple to understand example!! -->
 
 Each part of this question sounds like a junior developer's trick.
 
