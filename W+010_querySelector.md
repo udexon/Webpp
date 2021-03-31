@@ -64,3 +64,13 @@ document.querySelectorAll('#meta')[0].querySelector('#video-title').innerText='L
 document.querySelectorAll('#meta')[0].querySelector('#metadata-line').innerText='expired 30 Apr 2021'
 document.querySelectorAll('#meta')[0].querySelector('#byline-container').innerText='20% discount'
 ```
+
+- f. `#meta` in `querySelectorAll()` select all elements with `id="meta"`.
+  -  `[0]` in `document.querySelectorAll('#meta')[0]` returns the first selected element, i.e. the top left thumbnail as shown in figure 3.
+  -  `document.querySelectorAll('#meta')[0]` can be cascaded to select child element:
+```
+querySelector('#video-title')
+querySelector('#metadata-line')
+querySelector('#byline-container')
+```
+  - Finally, the selected element `.innerText` property is modified accordingly.
