@@ -1,5 +1,5 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web (Part I)
-- Phoscript Metaprogramming &mdash; Makes Programming as Easy as Manipulating Spreadsheets
+- _Phoscript Metaprogramming &mdash; Makes Programming as Easy as Manipulating Spreadsheets_
 
 1. Consider these questions:
 - a. How would you transfer data in a spreadsheet (Figure 1) 
