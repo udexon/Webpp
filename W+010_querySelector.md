@@ -40,6 +40,8 @@ following use case / modules:
 Chrome driver (browser).
 - b. `<script>` elements are removed from the page
 source and then the page source is saved as a local file.
+ See [W+009](https://github.com/udexon/Webpp/blob/main/W%2B009_Remove_script.md) 
+for details.
 - c. The cloned local copy of YouTube page
 is opened using Selenium Chrome driver again.
 - d. Right click on the element that you wish to modify, move the mouse pointer to the last item on the menu "Inspect". The corresponding DOM HTML will be displayed in the Developer Tool window, as shown in figure 3.
