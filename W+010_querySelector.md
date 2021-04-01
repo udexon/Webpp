@@ -61,7 +61,7 @@ Right click on it - Copy - Copy outerHTML, as shown in figure 4.
 - Figure 5
 <img src="https://github.com/udexon/Webpp/blob/main/img/DOM_meta_html.png" width=600>
 
-- g. The following code will modify the DOM elements highlighter in blue in figure 3:
+- g. The following code will modify the DOM elements highlighted in blue in figure 3:
 ```
 document.querySelectorAll('#meta')[0].querySelector('#video-title').innerText='Learn English Online'
 document.querySelectorAll('#meta')[0].querySelector('#metadata-line').innerText='expired 30 Apr 2021'
