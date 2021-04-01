@@ -1,4 +1,5 @@
 # Duniix Web++ &mdash; a New Way of Webbing the Web (Part I)
+- Phoscript Metaprogramming &mdash; Makes Programming as Easy as Manipulating Spreadsheets
 
 1. Consider these questions:
 - a. How would you transfer data in a spreadsheet (Figure 1) 
@@ -19,6 +20,8 @@ your choice (including websites such as Google,
 Each part of this question sounds like a junior developer's trick.
 
 If you are a senior developer and like challenges, stop reading now and figure it out yourself before continuing!!
+
+- We also wish to highlight that the metaprogramming techniques introduced with Duniix Phoscript will make web programming as simple as manipulating spreadsheet &mdash; something accessibe to even ___NON PROGRAMMMERS___ !!!
 
 A typical setup using conventional tools such as Laravel back end with some front end framework, together with MySQL database etc. would be too cumbersome to accomplish this task, as years of "over engineering" has created dozens of behemoths with severe inflexibilities, that can only work in a few very limited ways.
 
